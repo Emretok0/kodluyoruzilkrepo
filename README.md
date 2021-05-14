@@ -28,4 +28,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://filebin.net/d3v9vi9xtmng8wbd/LICENSE)
 
-![]()
+![img](https://i.ibb.co/YycNB8f/Ekran-Al-nt-s.png)
